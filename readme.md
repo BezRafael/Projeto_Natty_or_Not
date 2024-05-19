@@ -15,7 +15,7 @@ Este projeto do curso de *Fundamentos de IA Generativa e Claude 3 - DIO* é uma 
 
 - <a href="#https://www.canva.com/">Canva</a>
 
-- <a href="#https://chromewebstore.google.com/detail/captura-de-tela-e-gravado/ijejnggjjphlenbhmjhhgcdpehhacaal">Scrnlin</a>
+- <a href="#https://chromewebstore.google.com/detail/captura-de-tela-e-gravado/ijejnggjjphlenbhmjhhgcdpehhacaal">Extension Scrnlin</a>
 
 - ScreeGrab
 
