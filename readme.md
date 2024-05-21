@@ -22,7 +22,7 @@ Este projeto do curso de *Fundamentos de IA Generativa e Claude 3 - DIO* é uma 
 ## 🧐 Processo de Criação
 Primeiramente, utilizei o *ChatGPT* para gerar o roteiro dos textos e oferecer sugestões e orientações sobre as ferramentas a serem usadas. Com o roteiro pronto, o texto é convertido em áudio através do *Google AI Text-To-Speech* onde se escolhe a voz e o idioma desejados. Em seguida, a *Extension Speech Text AI* é usada para gravar o áudio diretamente no navegador, garantindo que o áudio gerado seja salvo para uso posterior.
 
-Utilizei o *Artbreeder AI*, que gera imagens baseadas em especificações definidas previamente. Posters e cenas dos filmes mencionados no roteiro são buscados e baixados através do site *MovieDB*. Para capturar avaliações dos filmes dos sites como IMDb e Rotten Tomatoes, utilizei a *Extensão Scrnlin* para fazer screenshots dessas páginas pelo navegador.
+Utilizei o *Artbreeder AI*, que gera imagens baseadas em especificações definidas previamente. Posters e cenas dos filmes mencionados no roteiro são buscados e baixados através do site *TheMovieDB*. Para capturar avaliações dos filmes dos sites como IMDb e Rotten Tomatoes, utilizei a *Extensão Scrnlin* para fazer screenshots dessas páginas pelo navegador.
 
 Quando não encontrei imagens específicas online, utilizei o *ScreeGrab* para capturar cenas diretamente dos vídeos. As trilhas sonoras dos filmes foram buscadas no *YouTube*. Com a *Extensão SaveFrom*, os áudios dessas trilhas são baixados diretamente do YouTube.
 
